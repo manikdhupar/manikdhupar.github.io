@@ -1,0 +1,56 @@
+#main-header img{
+    width: 100%;
+    height: 100%;
+}
+
+.b1{
+  background-color: #118484;
+}
+
+.space{
+  height: ;
+}
+
+.port-item{
+  width: 33.33%;
+}
+
+.port-item:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.port-item .fa{
+  font-size: 2em;
+}
+
+.bdr{
+  border-top:0px ;
+  border-radius:0px ;
+}
+.ic{
+  font-size: 25px !important;
+  color: white;
+}
+
+.bgr{
+  background-color:
+#ff8426;
+
+}
+
+.ic:hover{
+  font-size: 35px !important;
+}
+
+@media(min-width:1199px) {
+  .port-item{
+    padding:3em !important;
+  }
+}
+
+@media (min-width:999px) {
+    .name{
+      font-size: 25px;
+    }
+}
