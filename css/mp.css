@@ -53,3 +53,9 @@ body {
   transform: scale(1.2);
   width: 10em;
 }
+
+@media only screen and (max-width: 600px) {
+  .bottom{
+    margin-top: 100px;
+  }
+}
