@@ -54,7 +54,7 @@ body {
   width: 10em;
 }
 
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 690px) {
   .bottom{
     margin-top: 20%;
   }
