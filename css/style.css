@@ -1,3 +1,7 @@
+/* body{
+  font-family:sans-serif;
+} */
+
 #main-header img{
     width: 100%;
     height: 100%;
@@ -5,10 +9,6 @@
 
 .b1{
   background-color: #118484;
-}
-
-.space{
-  height: ;
 }
 
 .port-item{
@@ -31,6 +31,7 @@
 .ic{
   font-size: 25px !important;
   color: white;
+  transition:0.2s;
 }
 
 .bgr{
