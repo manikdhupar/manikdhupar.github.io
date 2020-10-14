@@ -41,7 +41,7 @@
 }
 
 .ic:hover{
-  font-size: 35px !important;
+  font-size: 32px !important;
 }
 
 @media(min-width:1199px) {
@@ -52,6 +52,6 @@
 
 @media (min-width:999px) {
     .name{
-      font-size: 25px;
+      font-size: 22px;
     }
 }
