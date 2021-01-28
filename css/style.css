@@ -8,7 +8,7 @@
 }
 
 .b1{
-  background-color: #118484;
+  background-color: #118485;
 }
 
 .port-item{
@@ -21,7 +21,7 @@
 }
 
 .port-item .fa{
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .bdr{
@@ -31,7 +31,7 @@
 .ic{
   font-size: 25px !important;
   color: white;
-  transition:0.2s;
+  transition:0.3s;
 }
 
 .bgr{
